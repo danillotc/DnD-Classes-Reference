@@ -1,0 +1,10 @@
+.classesList {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    padding: 1em;
+}
+
+.classesListItem {
+    padding: 0.2em;
+}

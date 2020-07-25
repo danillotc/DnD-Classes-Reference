@@ -1,0 +1,9 @@
+.title {
+    font-size: 1em;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+}
